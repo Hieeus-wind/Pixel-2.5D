@@ -1,0 +1,11 @@
+{
+  "name": "Aetherlands.Fishing.Editor",
+  "rootNamespace": "Aetherlands.Fishing.Editor",
+  "references": [
+    "Aetherlands.Fishing",
+    "Aetherlands.Coast"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ]
+}

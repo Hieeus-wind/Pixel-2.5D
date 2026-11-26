@@ -1,0 +1,19 @@
+{
+    "name": "Aetherlands.Integration",
+    "rootNamespace": "Aetherlands.Integration",
+    "references": [
+        "Aetherlands.Coast",
+        "Aetherlands.Fishing",
+        "Aetherlands.Networking",
+        "Fusion.Unity"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

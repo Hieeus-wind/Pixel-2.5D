@@ -1,0 +1,14 @@
+{
+  "name": "Aetherlands.Fishing.EditTests",
+  "rootNamespace": "Aetherlands.Fishing.Tests",
+  "references": [
+    "Aetherlands.Fishing",
+    "Aetherlands.Coast"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ]
+}

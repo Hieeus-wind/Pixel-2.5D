@@ -1,0 +1,24 @@
+{
+    "name": "Aetherlands.Networking.Editor",
+    "rootNamespace": "Aetherlands.Networking.Editor",
+    "references": [
+        "Aetherlands.Coast",
+        "Aetherlands.Fishing",
+        "Aetherlands.Integration",
+        "Aetherlands.Networking",
+        "Fusion.Unity",
+        "Fusion.Unity.Editor",
+        "Photon.Realtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

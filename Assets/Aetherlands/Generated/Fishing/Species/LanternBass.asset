@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d192811f0fa7e2a458bebc20d3136e1d, type: 3}
+  m_Name: LanternBass
+  m_EditorClassIdentifier: Aetherlands.Fishing::Aetherlands.Fishing.FishSpeciesDefinition
+  id: lantern_bass
+  displayName: Lantern Bass
+  rarity: 2
+  spawnWeight: 1.1
+  difficulty: 66
+  speed: 1.25
+  behavior: 4
+  minSizeCm: 38
+  maxSizeCm: 68
+  silhouette: 2
+  bodyColor: {r: 0.20392157, g: 0.3019608, b: 0.3882353, a: 1}
+  bellyColor: {r: 0.5137255, g: 0.78039217, b: 0.6666667, a: 1}
+  finColor: {r: 0.7490196, g: 0.35686275, b: 0.2627451, a: 1}
+  accentColor: {r: 1, g: 0.7882353, b: 0.45882353, a: 1}

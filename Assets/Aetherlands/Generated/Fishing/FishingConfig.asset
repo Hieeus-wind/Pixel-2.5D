@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 623304f6fa2d8bc46b4b38ae0861daab, type: 3}
+  m_Name: FishingConfig
+  m_EditorClassIdentifier: Aetherlands.Fishing::Aetherlands.Fishing.FishingConfig
+  waterSurfaceY: -2
+  minCastDistance: 2.4
+  maxCastDistance: 5.4
+  castArcHeight: 2.1
+  waterSearchStep: 0.45
+  chargeRate: 1.15
+  castTravelDuration: 0.45
+  minBiteWaitSeconds: 1.8
+  maxBiteWaitSeconds: 4.4
+  biteReactionWindowSeconds: 1.35
+  resultDisplaySeconds: 2.4
+  catchBarSize: 0.24
+  barGravity: 1.35
+  barThrust: 2.75
+  barMaxSpeed: 1.85
+  barBottomBounce: 0.42
+  barTopBounce: 0.15
+  barLinearDamping: 0.35
+  initialProgress: 0.28
+  progressGainRate: 0.22
+  progressDrainRate: 0.17
+  fishRadius: 0.045
+  species:
+  - {fileID: 11400000, guid: 451cdcf1f59a4de4592f8de358dabfa8, type: 2}
+  - {fileID: 11400000, guid: 6180d42399a7f914d890efb4e1f82718, type: 2}
+  - {fileID: 11400000, guid: b50084d9071e98b4b8c4383ebd03c090, type: 2}
+  - {fileID: 11400000, guid: 96b3cef11480cc3429992e7bf14e0d1f, type: 2}
+  - {fileID: 11400000, guid: 4b8bd5d03fb715546a7394bccb99bd42, type: 2}
+  - {fileID: 11400000, guid: 5370c574515038f4c91ab00010fbf874, type: 2}

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d192811f0fa7e2a458bebc20d3136e1d, type: 3}
+  m_Name: CoastalBream
+  m_EditorClassIdentifier: Aetherlands.Fishing::Aetherlands.Fishing.FishSpeciesDefinition
+  id: coastal_bream
+  displayName: Coastal Bream
+  rarity: 1
+  spawnWeight: 2.3
+  difficulty: 44
+  speed: 1.05
+  behavior: 2
+  minSizeCm: 24
+  maxSizeCm: 44
+  silhouette: 1
+  bodyColor: {r: 0.5568628, g: 0.6509804, b: 0.59607846, a: 1}
+  bellyColor: {r: 0.93333334, g: 0.84705883, b: 0.627451, a: 1}
+  finColor: {r: 0.5254902, g: 0.34901962, b: 0.26666668, a: 1}
+  accentColor: {r: 0.44705883, g: 0.6509804, b: 0.30980393, a: 1}

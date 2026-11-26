@@ -1,0 +1,29 @@
+{
+    "name": "Aetherlands.Networking.EditTests",
+    "rootNamespace": "Aetherlands.Networking.Tests",
+    "references": [
+        "Aetherlands.Coast",
+        "Aetherlands.Networking",
+        "Aetherlands.Networking.Editor",
+        "Fusion.Unity"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll",
+        "Fusion.Runtime.dll",
+        "Fusion.Common.dll",
+        "Fusion.Realtime.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

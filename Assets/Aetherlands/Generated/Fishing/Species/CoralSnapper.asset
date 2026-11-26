@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d192811f0fa7e2a458bebc20d3136e1d, type: 3}
+  m_Name: CoralSnapper
+  m_EditorClassIdentifier: Aetherlands.Fishing::Aetherlands.Fishing.FishSpeciesDefinition
+  id: coral_snapper
+  displayName: Coral Snapper
+  rarity: 1
+  spawnWeight: 1.9
+  difficulty: 54
+  speed: 1.15
+  behavior: 3
+  minSizeCm: 30
+  maxSizeCm: 56
+  silhouette: 2
+  bodyColor: {r: 0.7490196, g: 0.35686275, b: 0.2627451, a: 1}
+  bellyColor: {r: 0.94509804, g: 0.827451, b: 0.6666667, a: 1}
+  finColor: {r: 0.45490196, g: 0.24313726, b: 0.22745098, a: 1}
+  accentColor: {r: 0.9411765, g: 0.73333335, b: 0.4, a: 1}

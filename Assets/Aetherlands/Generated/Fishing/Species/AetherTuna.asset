@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d192811f0fa7e2a458bebc20d3136e1d, type: 3}
+  m_Name: AetherTuna
+  m_EditorClassIdentifier: Aetherlands.Fishing::Aetherlands.Fishing.FishSpeciesDefinition
+  id: aether_tuna
+  displayName: Aether Tuna
+  rarity: 3
+  spawnWeight: 0.55
+  difficulty: 80
+  speed: 1.45
+  behavior: 4
+  minSizeCm: 64
+  maxSizeCm: 118
+  silhouette: 3
+  bodyColor: {r: 0.16470589, g: 0.38431373, b: 0.5019608, a: 1}
+  bellyColor: {r: 0.7058824, g: 0.8784314, b: 0.85490197, a: 1}
+  finColor: {r: 0.9411765, g: 0.73333335, b: 0.4, a: 1}
+  accentColor: {r: 0.5137255, g: 0.78039217, b: 0.6666667, a: 1}

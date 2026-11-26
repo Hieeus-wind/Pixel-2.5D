@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b30518486ece0804dbe68b2de368dbc4, type: 3}
+  m_Name: CoastalSessionConfig
+  m_EditorClassIdentifier: Aetherlands.Networking::Aetherlands.Networking.CoastalSessionConfig
+  defaultRoomName: Aetherlands-Coast
+  maxPlayers: 8
+  worldSeed: 7319
+  generatorVersion: 1
+  contentVersion: m2-coast-1
+  spawnOrigin: {x: 0, y: 0.015, z: 0.9}
+  spawnPeerSpacing: 0.85
+  remoteInterpolationRate: 18

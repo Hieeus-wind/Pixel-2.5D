@@ -1,0 +1,9 @@
+{
+  "name": "Aetherlands.Fishing",
+  "rootNamespace": "Aetherlands.Fishing",
+  "references": [
+    "Aetherlands.Coast",
+    "Unity.InputSystem",
+    "UnityEngine.UI"
+  ]
+}

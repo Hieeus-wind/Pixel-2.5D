@@ -1,0 +1,1 @@
+{"name":"Aetherlands.Coast.Editor","references":["Aetherlands.Coast","Aetherlands.Fishing","Aetherlands.Fishing.Editor","Aetherlands.Networking","Aetherlands.Networking.Editor","Fusion.Unity","Unity.RenderPipelines.Universal.Runtime","Unity.RenderPipelines.Core.Runtime"],"includePlatforms":["Editor"]}

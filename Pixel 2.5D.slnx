@@ -1,0 +1,19 @@
+﻿<Solution>
+  <Project Path="Fusion.Unity.Editor.csproj" />
+  <Project Path="Fusion.Unity.csproj" />
+  <Project Path="Fusion.Menu.csproj" />
+  <Project Path="Photon.Realtime.csproj" />
+  <Project Path="Aetherlands.Networking.csproj" />
+  <Project Path="Aetherlands.Coast.Editor.csproj" />
+  <Project Path="Aetherlands.Networking.Editor.csproj" />
+  <Project Path="Aetherlands.Fishing.csproj" />
+  <Project Path="Aetherlands.Fishing.Editor.csproj" />
+  <Project Path="Fusion.Menu.Editor.csproj" />
+  <Project Path="Aetherlands.Integration.csproj" />
+  <Project Path="Aetherlands.Coast.csproj" />
+  <Project Path="Aetherlands.Fishing.EditTests.csproj" />
+  <Project Path="Aetherlands.Coast.EditTests.csproj" />
+  <Project Path="Aetherlands.Coast.PlayTests.csproj" />
+  <Project Path="Aetherlands.Networking.EditTests.csproj" />
+  <Project Path="Unity.Fusion.CodeGen.csproj" />
+</Solution>
